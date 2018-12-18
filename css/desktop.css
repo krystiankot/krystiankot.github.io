@@ -165,7 +165,6 @@
         left: -4rem;
         width: auto;
     }
-    
 
     .view--3ds .view__box {
         width: 320px;
@@ -255,8 +254,6 @@
         letter-spacing: 0.17px;
         text-align: justify;
     }
-
-
 
     /* view--events */
     .view--events {
