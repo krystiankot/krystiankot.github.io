@@ -1,0 +1,33 @@
+@media (min-width: 768px) {
+    html {
+        font-size: 12px;
+    }
+
+    /* view--3ds */
+    .view--3ds .view__content-title {
+        font-size: 9rem;
+        line-height: 9rem;
+    }
+
+    .view--3ds .view__box {
+        padding-top: 350px;
+    }
+
+    /* .view--about */
+    .view--about  .view__image-container {
+        padding-top: 435px;
+    }
+
+    /* .view--event */
+    .view__event-item {
+        height: 320px;
+    }
+
+
+}
+
+@media (min-width: 1120px) {
+    .view__events-list {
+        justify-content: center;
+    }
+}
